@@ -1,0 +1,6 @@
+[submodule "bsp/buildroot"]
+	path = bsp/buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "bsp/linux"]
+	path = bsp/linux
+	url = https://github.com/boundarydevices/linux-imx6.git
